@@ -8,7 +8,7 @@ patterns i.e. either alcoholic or control are given as 0 and 1, respectively.
 kNN1.java loads all data, computes Euclidean distance measures of the test and train data to obtain the predicted lables (using k=1) and the classification accuracy.
 kNN2.java explores different methods to improve classification accuracy. The two methods that worked were: using Manhattan distance instead of Euclidean distance and standardising the data before performing kNN. 
 The methods that i tried and did not work were:
-Feature selection - only selecting first 50% or last 50% of features for example.
-Different value for k - with a sorted list
-Minkowski distance
-Cosine Similarity
+Feature selection - only selecting first 50% or last 50% of features for example, 
+Different value for k - with a sorted list, 
+Minkowski distance, 
+Cosine Similarity.
