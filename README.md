@@ -1,7 +1,7 @@
 Performs classification using k-nearest neighbour (kNN) on a real-world dataset.
 There are 400 patterns from 40 subjects (roughly similar numbers of alcoholics and controls). The 400 pattern is divided into 2 sets:
-• Training set: 200 patterns (given in train_data.txt file)
-• Test set: 200 patterns (given in test_data.txt file)
+Training set: 200 patterns (given in train_data.txt file) and 
+Test set: 200 patterns (given in test_data.txt file)
 Each row in the file consists of 61 feature values representing either an alcoholic or control subject data. The class labels for the training and test 
 patterns i.e. either alcoholic or control are given as 0 and 1, respectively.
 
